@@ -1,0 +1,112 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url("fundo.avif");
+    font-size: large;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+#logo {
+    font-family: cursive;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#header {
+    height: 170px;
+    background-color: #a88989;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: cursive;
+    text-align: center;
+}
+
+#propaganda{
+    height: 590px;
+    width: 295px;
+    float: right;
+    margin-right: 30px;
+    margin-top: -780px;
+    margin-block-end: 5px;
+    color: #a88989;
+    padding: 10px;
+    text-align: left;
+}
+
+#propaganda2{
+    height: 590px;
+    width: 295px;
+    float: left;
+    margin-left: 30px;
+    margin-top: -780px;
+    margin-block-end: 5px;
+    color: #a88989;
+    padding: 10px;
+    text-align: left;
+}
+
+#texto1 {
+    width: 500;
+    height: 500;
+    float: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+
+
+#conteudo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
