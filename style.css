@@ -149,18 +149,3 @@ section {
     padding: 10px 0;
     
 }
-
-
-h1, h2 {
-    margin-bottom: 10px;
-}
-
-
-a {
-    color: #4CAF50;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
