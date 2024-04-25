@@ -55,6 +55,7 @@ body {
 }
 
 #texto1 {
+    font-family: 'Times New Roman', Times, serif;
     width: 500;
     height: 500;
     float: center;
@@ -62,8 +63,39 @@ body {
     margin-top: 50px;
 }
 
+#texto2 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 500;
+    height: 500;
+    float: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 
+#texto3 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 500;
+    height: 500;
+    float: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 
+#sobre {
+    font-family: 'Times New Roman', Times, serif;
+    width: 500;
+    height: 500;
+    float: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#habitos {
+    text-align: center;
+    float: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
 
 #conteudo {
     margin-top: 20px;
@@ -90,10 +122,32 @@ section {
 }
 
 #footer {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 10px 0;
+    
+}
+
+#footer2 {
+    margin-top: 250px ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    
+}
+
+#footer3 {
+    margin-top: 250px ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    
 }
 
 
